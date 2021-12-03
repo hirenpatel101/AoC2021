@@ -2,4 +2,3 @@ numpy
 requests
 arrow
 pandas
-ipykernal
